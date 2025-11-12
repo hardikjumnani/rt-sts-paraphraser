@@ -1,0 +1,3 @@
+# Realtime Speech to Speech Paraphraser
+
+RT STS Paraphraser is a end‑to‑end, streaming, English speech‑to‑speech paraphraser that starts talking almost immediately, learns its own context window (no fixed delay), preserves the speaker’s voice, and exposes real‑time controls for vocabulary level, paraphrase strength, and formality—trained primarily from your text↔text data via teacher‑student distillation and synthetic audio.
