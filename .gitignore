@@ -1,7 +1,10 @@
 **/__pycache__/
 
+.env
+
 .venv/
 .pytest_cache/
 artifacts/
+chat/
 
 temp.py
